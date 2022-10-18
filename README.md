@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/e596aaaa7545/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/e596aaaa7545/Operationalize-a-Machine-Learning-Microservice-API)
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
@@ -25,8 +23,6 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 ---
 
 ## Project Directory Structure
-
-![directory-structure](./screenshots/dir.png)
 
 | Name                | Description                                                                                    |
 | ------------------- | ---------------------------------------------------------------------------------------------- |
@@ -65,8 +61,6 @@ source .devops/bin/activate
 2. Run in Docker: `./run_docker.sh`
 3. Run in Kubernetes: `./run_kubernetes.sh`
 
-![run-with-docker.sh](./screenshots/task2-run-container.png)
-
 ### Kubernetes Steps
 
 - Setup and Configure Docker locally
@@ -100,9 +94,3 @@ source .devops/bin/activate
   4. Forward the container port to a host port, using the same ports as before
 
      After completing the code, call the script [./run_kubernetes.sh](./run_kubernetes.sh). This assumes you have a local cluster configured and running. This script should create a pod with a name you specify and you may get an initial output that looks as follows, with a cluster and status
-
-     ![run-kubernetes.sh](./screenshots/task6-deploy-with-kubernetes.png)
-
-Prediction Result with Kubernetes
-
-![prediction](./screenshots/prediction-result-with-kub.png)
