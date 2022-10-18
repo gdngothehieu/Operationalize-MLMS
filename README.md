@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/e596aaaa7545/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/e596aaaa7545/Operationalize-a-Machine-Learning-Microservice-API)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/gdngothehieu/Operationalize-MLMS/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/gdngothehieu/Operationalize-MLMS/tree/main)
+https://app.circleci.com/pipelines/github/gdngothehieu/Operationalize-MLMS)
 
 ## Project Overview
 
