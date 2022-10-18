@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/e596aaaa7545/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/e596aaaa7545/Operationalize-a-Machine-Learning-Microservice-API)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
@@ -94,3 +96,5 @@ source .devops/bin/activate
   4. Forward the container port to a host port, using the same ports as before
 
      After completing the code, call the script [./run_kubernetes.sh](./run_kubernetes.sh). This assumes you have a local cluster configured and running. This script should create a pod with a name you specify and you may get an initial output that looks as follows, with a cluster and status
+
+Prediction Result with Kubernetes
